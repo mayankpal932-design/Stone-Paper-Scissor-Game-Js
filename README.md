@@ -35,7 +35,7 @@ The winner is determined using conditional logic comparing player and computer c
 
 ## 🔗 Live Demo
 
-https://mayankpal932-design.github.io/stone-paper-scissor-game-js/
+https://mayankpal932-design.github.io/Stone-Paper-Scissor-Game-Js/
 
 ---
 
