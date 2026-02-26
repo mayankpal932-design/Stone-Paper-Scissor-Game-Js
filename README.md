@@ -49,3 +49,23 @@ https://mayankpal932-design.github.io/Stone-Paper-Scissor-Game-Js/
 ---
 
 ## 📁 Project Structure
+
+stone-paper-scissor-game-js/
+│
+├── index.html
+├── style.css
+├── script.js
+└── screenshot.png
+
+---
+
+## 👨‍💻 Author
+
+**Mayank Pal**  
+Frontend Developer  
+
+GitHub: https://github.com/mayankpal932-design
+
+---
+
+⭐ If you like this project, consider giving it a star!
